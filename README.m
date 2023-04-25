@@ -1,6 +1,6 @@
 % ==============================================================================
 % 
-%           A Universal Model-based Single Image Restoration Framework Using Hybrid Priors
+%          A Support-Denoiser-driven Framework for Single Image Restoration
 %                          
 % 
 %                         Version 1.0, 16-October-2018
@@ -15,8 +15,8 @@
 %   Denoiser regularization + Trunctaed Framelet L1 regularization  model with hybrid priors
 %   \lambda1 Denoiser(u)  +  \lambda2 ||(Wu)T||_1 + 1/2 ||Au - f||_2^2 as described in pape:
 %   
-%     Title:  A Universal Model-based Single Image Restoration Framework Using Hybrid Priors
-%     Author: Liangtgian He and Yilun Wang   
+%     Title:  A Support-Denoiser-driven Framework for Single Image Restoration
+%     Author: Liangtgian He, Yilun Wang, Shaobing Gao   
 % 
 %   Specifically, this packages contains  the implementions for two applications: 
 %   image inpainting and image deblurring which can be found in each directory. 

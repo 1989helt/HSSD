@@ -17,6 +17,7 @@
 %   
 %     Title:  A Support-Denoiser-driven Framework for Single Image Restoration
 %     Author: Liangtgian He, Yilun Wang, Shaobing Gao   
+%     Journal: Journal of Computational and Applied Mathematics. 393, 113495, 2021. 
 % 
 %   Specifically, this packages contains  the implementions for two applications: 
 %   image inpainting and image deblurring which can be found in each directory. 
